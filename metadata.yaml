@@ -1,0 +1,25 @@
+_repo: The-Poorhouse-Waif-and-His-Divine-Teacher-A-True-Story_7036
+creator:
+  author:
+    agent_name: Byrum, Isabel C. (Isabel Coston)
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '4193'
+    url: http://www.gutenberg.org/2009/agents/4193
+description: Based on a true story and set during the American Civil War this novel
+  follows the tale of Edwin, one of three children placed in a poorhouse by their
+  mother who has lost her husband in the war and cannot afford to care for them.
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+title: 'The Poorhouse Waif and His Divine Teacher: A True Story'
+url: http://www.gutenberg.org/ebooks/7036
